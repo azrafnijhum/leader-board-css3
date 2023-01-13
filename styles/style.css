@@ -126,6 +126,7 @@ hr{
     }
     .players, .blogs, .courses{
         grid-template-columns: repeat(1, 1fr);
+        /* background-color: red; */
     }
     .player, .blog{
         flex-direction: column;
